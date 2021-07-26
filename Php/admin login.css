@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0;
+	padding: 0;
+	background:radial-gradient(#FFEFBA,#FFFFFF);
+	
+}
+
+.box h1{
+	color:aqua;
+	
+}
+
+.box input[type="button"]{
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border:2px solid #079C9D;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: white;
+	border-radius: 20px;
+	transform: 0.30s;
+}
+button{
+	padding: 10px;
+	margin: 0px;
+	background: #00D4F4;
+	border:2px solid #FFFFFF;
+	
+}
